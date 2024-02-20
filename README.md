@@ -7,7 +7,7 @@
 Para clonar este repositorio en tu máquina local, se debe ejecutar el siguiente comando en tu terminal:
 
 ```bash
-git clone git@github.com:fer21047/react.git
+git clone git@github.com:fer21047/login_angular.git
 
 -Esto es dentro del Bash de git que se debe de tener descargado
 
