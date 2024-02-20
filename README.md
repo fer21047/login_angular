@@ -32,7 +32,7 @@ git clone git@github.com:fer21047/login_angular.git
 ## ejecutar Json-Server
 - Para la ejecución de jsonServer ejecuta en una terminal de visual lo siguiente
 ```angular
-  json server --watch db.json
+  json-server --watch db.json
 ```
 
 
