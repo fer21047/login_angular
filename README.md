@@ -1,27 +1,38 @@
-# FmjReviewGds0551
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+# Login y registro en Angular 
+- Proyecto de Login en Angular
 
-## Development server
+## Clonar el Repositorio
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para clonar este repositorio en tu máquina local, se debe ejecutar el siguiente comando en tu terminal:
 
-## Code scaffolding
+```bash
+git clone git@github.com:fer21047/react.git
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-Esto es dentro del Bash de git que se debe de tener descargado
 
-## Build
+```
+## Instalación
+- Instalaciones necesarias para poder ejecutar el proyecto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. En la carpeta del proyecto
+   ```bash
+   cd (nombre-de-la-carpeta)
+   ```
+2. Para la instalacion de las dependencias. Se recomienda instalarlas nuevamente para no tener problemas de versiones en la terminal de Visual Studio Code
+   ```bash
+   npm install
+   ```
+## Uso 
+- Para inicializar el proyecto se pone lo siguiente en la terminal de Vsual Studio Code
+ ```bash
+  npm start
+```
 
-## Running unit tests
+## ejecutar Json-Server
+- Para la ejecución de jsonServer ejecuta en una terminal de visual lo siguiente
+```angular
+  json server --watch db.json
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
